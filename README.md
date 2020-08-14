@@ -10,7 +10,7 @@ I’m a pattern library creator, librarian, curator, and full-stack developer at
 
 #### As a Developer
 
-_ :hearts: **Authentic**. I value being fully authentic, honest, and being myself in everything I do. I care deeply about my work and the people I work with.
+- :hearts: **Authentic**. I value being fully authentic, honest, and being myself in everything I do. I care deeply about my work and the people I work with.
 - :tada: **Refactoring**. It's never right the first time! Nothing is ever perfect but I'll keep trying to push my work toward some version of better.
 - :corn: **Puns**. I want to make the team laugh (or groan laugh). Work should be fun!
 
