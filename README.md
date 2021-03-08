@@ -1,7 +1,7 @@
 ### Hi, I'm J. Ryan Conklin. :joy_cat:
 
 - 😄 Pronouns: He/Him/His
-- :goat: I’m currently working on [Particle 11](https://github.com/phase2/particle/tree/eleven)
+- :goat: I’m currently working on Web Components
 - 💬 Ask me about Dungeons & Dragons
 
 I’m a pattern library creator, librarian, curator, and full-stack developer at Phase2. I enjoy creating build tools to make my colleagues lives a little easier. I love using technology to solve real problems, but I strive to put people first when making decisions. I care passionately about people’s experience; whether that’s creating an accessible-by-default page or improving front-end development tools. Technology is all about people.
