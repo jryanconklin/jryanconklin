@@ -4,7 +4,7 @@
 - :goat: I’m currently working on Web Components
 - 💬 Ask me about Dungeons & Dragons
 
-I’m a pattern library creator, librarian, curator, and full-stack developer at Phase2. I enjoy creating build tools to make my colleagues lives a little easier. I love using technology to solve real problems, but I strive to put people first when making decisions. I care passionately about people’s experience; whether that’s creating an accessible-by-default page or improving front-end development tools. Technology is all about people.
+I’m a pattern library creator, librarian, curator, and full-stack developer at ThinkShout. I enjoy creating build tools to make my colleagues lives a little easier. I love using technology to solve real problems, but I strive to put people first when making decisions. I care passionately about people’s experience; whether that’s creating an accessible-by-default page or improving front-end development tools. Technology is all about people.
 
 ### What it's like working with me
 
